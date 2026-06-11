@@ -1,7 +1,7 @@
 var url = "https://6a29e84cf59cb8f65f1dc0ee.mockapi.io/api/v1/Materiais";
 
 window.onload = function() {
-  fetch(url)
+  fetch(url)  
   .then(res => res.json())
   .then(data => {
     var tabela = document.getElementById("lista-materiais");
