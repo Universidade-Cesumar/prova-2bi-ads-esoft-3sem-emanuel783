@@ -29,3 +29,5 @@ Sistema web para controle de materiais de um almoxarifado. Desenvolvido como pro
 - POST /Materiais - cadastra novo
 - PUT /Materiais/:id - atualiza quantidade
 - DELETE /Materiais/:id - exclui material
+
+<!-- // kkdwmkdmcm -->g
