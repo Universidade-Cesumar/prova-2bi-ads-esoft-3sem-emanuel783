@@ -1,14 +1,20 @@
 # Sistema de Almoxarifado
 
+> Link do projeto: https://seu-usuario.github.io/prova-2bi-ads-esoft-3sem-emanuel783
+
 Sistema web para controle de materiais de um almoxarifado. Desenvolvido como projeto de faculdade.
 
 ## O que o sistema faz
 
 - Cadastra materiais com nome e quantidade
 - Lista todos os materiais cadastrados
+- Pesquisa materiais pelo nome em tempo real
+- Mostra o total de itens cadastrados
+- Destaca em vermelho itens com estoque abaixo de 10
 - Permite retirar (dar baixa) uma quantidade do estoque
 - Permite excluir um material
-- Valida se a quantidade a retirar é válida (não aceita negativos nem maior que o estoque)
+- Valida se a quantidade a retirar é válida
+- Trata erros de conexão com a API
 
 ## Tecnologias usadas
 
@@ -29,5 +35,3 @@ Sistema web para controle de materiais de um almoxarifado. Desenvolvido como pro
 - POST /Materiais - cadastra novo
 - PUT /Materiais/:id - atualiza quantidade
 - DELETE /Materiais/:id - exclui material
-
-<!-- // kkdwmkdmcm -->g

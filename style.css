@@ -22,7 +22,7 @@ button {
 
 table {
   margin-top: 15px;
-  width: 50%;
+  width: 60%;
 }
 
 th {
@@ -33,4 +33,25 @@ th {
 
 td {
   padding: 7px;
+}
+
+.btn-baixar {
+  padding: 4px 8px;
+  background-color: orange;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.btn-excluir {
+  padding: 4px 8px;
+  background-color: red;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.estoque-critico {
+  background-color: #ffcccc;
 }
