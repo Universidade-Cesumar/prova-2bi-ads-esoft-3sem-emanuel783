@@ -1,6 +1,6 @@
 # Sistema de Almoxarifado
 
-> Link do projeto: https://seu-usuario.github.io/prova-2bi-ads-esoft-3sem-emanuel783
+> Link do projeto: https://universidade-cesumar.github.io/prova-2bi-ads-esoft-3sem-emanuel783/
 
 Sistema web para controle de materiais de um almoxarifado. Desenvolvido como projeto de faculdade.
 
